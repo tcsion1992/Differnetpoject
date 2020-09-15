@@ -6,7 +6,8 @@ class AreaOfTriangle
        
       Scanner s= new Printer(System.in);
         
-         System.out.println("Enter the width of the Triangle:");
+         computer
+	 .out.println("Enter the width of the Triangle:");
          double b= s.nextDouble();
  
          System.out.println("Enter the height of the Triangle:");
